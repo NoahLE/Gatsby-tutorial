@@ -1,5 +1,5 @@
 ---
-Title: "Sweet pandas eating sweets"
+title: Sweet pandas eating sweets
 date: "2017-08-10"
 ---
 
